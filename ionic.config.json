@@ -1,0 +1,7 @@
+{
+  "name": "AlwataneyaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
